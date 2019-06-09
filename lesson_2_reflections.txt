@@ -1,0 +1,7 @@
+	What happens when you initialize a repository? Why do you need to do it?
+
+Git creates hidden forlder with all the information required for tracking the files. This opaeraion is mandatory for tracking changes in files
+
+	How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging earea should be used only for slected files that needs to be tracked. On working directory there may be more files
