@@ -9,3 +9,7 @@ Staging earea should be used only for slected files that needs to be tracked. On
 	How can you use the staging area to make sure you have one commit per logical change?
 
 You can add several files to staging area, and once the logical change is completed commit them all in single commit
+
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It may be usefful to use branches for some experimental changes, or for preparing several version of the same program
