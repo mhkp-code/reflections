@@ -5,3 +5,7 @@ Git creates hidden forlder with all the information required for tracking the fi
 	How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging earea should be used only for slected files that needs to be tracked. On working directory there may be more files
+
+	How can you use the staging area to make sure you have one commit per logical change?
+
+You can add several files to staging area, and once the logical change is completed commit them all in single commit
