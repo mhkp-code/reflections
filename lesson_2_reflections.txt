@@ -13,3 +13,7 @@ You can add several files to staging area, and once the logical change is comple
 	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 It may be usefful to use branches for some experimental changes, or for preparing several version of the same program
+
+	How do the diagrams help you visualize the branch structure?
+
+They graphically show where each branch starts and what are the commit parents
