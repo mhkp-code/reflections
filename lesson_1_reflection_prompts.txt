@@ -47,6 +47,8 @@ could break something?
 
 	Because all of the time I am able to go back to version that worked correctely and then compare it to non working version which will allow me to find the cause of the problem    
 
+xxx
+
 
 
 Now that you have your workspace set up, what do you want to try using Git for?
