@@ -21,3 +21,7 @@ They graphically show where each branch starts and what are the commit parents
 	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 it can put toghether all commints into one branch and put all the changes toghetther to a controled file
+
+	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git helps us to organize code and automatiically shows possible conflicts. Merging manually is more time consuming but gives opportunity to rethink the code
