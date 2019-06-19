@@ -17,3 +17,7 @@ It may be usefful to use branches for some experimental changes, or for preparin
 	How do the diagrams help you visualize the branch structure?
 
 They graphically show where each branch starts and what are the commit parents
+
+	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it can put toghether all commints into one branch and put all the changes toghetther to a controled file
