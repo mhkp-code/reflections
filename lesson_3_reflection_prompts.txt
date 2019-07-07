@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	- branches may be used for pralel working with the repository
 	- clone may be used to copy repository from remoto to local or to copy it on local
 	- fork should be used when copy repository directely between remotes
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It will allow to use Fast Forward merges without conflicts
